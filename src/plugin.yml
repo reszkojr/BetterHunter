@@ -1,0 +1,10 @@
+name: BetterHunter
+main: me.santres.betterhunter.BetterHunter
+author: Santres
+conflicts: ManHunt
+api-version: 1.18
+version: 1.0
+commands:
+  hunter:
+    usage: /<command> add|remove <player>
+    description: Hunter commands. But better.
